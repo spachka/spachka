@@ -14,6 +14,6 @@
 <a>bye</a>
 </div>
 
-<div>
-  ah.. yea! im glad for all ur drawings on my straw page <3
-</div>
+<br>
+ah.. yea! im glad for all ur drawings on my straw page!!!!11111!!1 <3
+
