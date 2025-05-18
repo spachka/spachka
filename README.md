@@ -15,5 +15,5 @@
 </div>
 
 <br>
-ah.. yea! im glad for all ur drawings on my straw page!!!!11111!!1 <3
+ah.. yea! im glad for all ur drawings on my straw page!!!!11111!!1
 
