@@ -10,10 +10,4 @@
 </div>
 
 <br>
-<div align="center">
-<a>bye</a>
-</div>
-
-<br>
-ah.. yea! im glad for all ur drawings on my straw page!!!!11111!!1
 
