@@ -1,7 +1,7 @@
 <div align="center">
 <a>hi</a>
 <br>
-<a>i dont like to talk cuz im so shy, srry</a>
+<a>i dont like to talk, srry</a>
 <br>
 <a>hope u like my skins <3</a>
 </div>
