@@ -4,8 +4,15 @@
 <a>i dont like to talk, srry</a>
 <br>
 <a>hope u like my skins</a>
+<br>
+<br>
+<a>✷ my page on Artfight: ✷<br></a>
+https://artfight.net/~sapachka
+
+<br>
 </div>
 <br>
+
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/spachka/spachka/blob/main/angelflut.gif?raw=true" alt="Angel left" style="max-width: 30%;">
