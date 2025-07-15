@@ -12,8 +12,9 @@
   <img src="https://github.com/spachka/spachka/blob/d69f8e36b7702be130dcaacfe5d56a5e202d63b0/picmix.com_12681078.gif" alt="Main image" style="max-width: 30%;">
   <img src="https://github.com/spachka/spachka/blob/main/angelright.gif?raw=true" alt="Angel right" style="max-width: 30%;">
 </div>
-
-
-
 <br>
+
+![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=views:)
+
+
 
