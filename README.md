@@ -3,7 +3,7 @@
 <br>
 <a>i dont like to talk, srry</a>
 <br>
-<a>hope u like my skins <3</a>
+<a>hope u like my skins</a>
 </div>
 <br>
 
