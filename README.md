@@ -1,10 +1,4 @@
-<div align="center">
-<a>hi</a>
-<br>
-<a>i dont like to talk, srry</a>
-<br>
-</div>
-<br>
+
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
