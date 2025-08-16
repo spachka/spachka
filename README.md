@@ -1,5 +1,5 @@
 <div align="center">
-  <p>hi uh</p>
+  <p>hi</p>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
@@ -8,6 +8,10 @@
   <img src="https://github.com/spachka/spachka/blob/main/angelright.gif?raw=true" alt="Angel right" style="width: 100px;">
 </div>
 <br>
+
+<div align="center">
+<p>remaking own strawpage rn . . .</p>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=views:)
 
