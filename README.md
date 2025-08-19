@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <a>-----> </a><a href="https://spachka.atabook.org/nn">my atabook</a><a> <-----</a>
+  <a>-----> </a><a href="https://spachka.atabook.org/">my atabook</a><a> <-----</a>
   <p>would be glad if u can write here something for me :-)</p>
 </div>
 
