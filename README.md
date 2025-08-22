@@ -10,8 +10,19 @@
 <br>
 
 <div align="center">
+<a>imma спачка(or spachka on eng) and i love music and draw something for myself</a><br>
+<a>i cant talk cuz im afk or busy. im sorry for that!</a>
+</div>
+<br>
+
+<div align="center">
   <a>-----> </a><a href="https://spachka.atabook.org/">my atabook</a><a> <-----</a>
   <p>would be glad if u can write here something for me :-)</p>
+</div>
+
+  <div align="right">
+<img src="https://github.com/spachka/spachka/blob/083a7e3f83b3110f84538e874f371eef873f5b30/EGHKSQC3FATKKBBZPZEWOWKO66NYD2AJ.gif">
+<a>goodbye</a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=views:)
