@@ -20,7 +20,7 @@
   <p>would be glad if u can write here something for me :-)</p>
 </div>
 
-  <div align="right">
+  <div align="left">
 <img src="https://github.com/spachka/spachka/blob/083a7e3f83b3110f84538e874f371eef873f5b30/EGHKSQC3FATKKBBZPZEWOWKO66NYD2AJ.gif">
 <a>goodbye</a>
 </div>
