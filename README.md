@@ -11,9 +11,14 @@
 
 <div align="center">
 <a>imma спачка(or spachka on eng) and i love music and draw something for myself</a><br>
-<a>i cant talk cuz im afk or busy. im sorry for that!</a>
+<a>i have an social issues so I can't talk to u cuz im so shy. im sorry for that!</a>
 </div>
 <br>
+
+<div align="center">
+  <a>-----> </a><a href="https://github.com/spachka/more-info/blob/main/README.md">more info</a><a> <-----</a>
+  <p>I'll add more things here soon, I swear</p>
+</div>
 
 <div align="center">
   <a>-----> </a><a href="https://spachka.atabook.org/">my atabook</a><a> <-----</a>
