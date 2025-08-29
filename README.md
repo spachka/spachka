@@ -11,7 +11,8 @@
 
 <div align="center">
 <a>imma спачка(or spachka on eng) and i love music and draw something for myself</a><br>
-<a>i have an social issues so I can't talk to u cuz im so shy. im sorry for that!</a>
+<a>i have an social issues so I can't talk to u cuz im so shy. im sorry for that!</a><br>
+<a>I often sit at the same place where u found me</a>
 </div>
 <br>
 
