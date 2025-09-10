@@ -31,7 +31,7 @@
 <a>goodbye</a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=views:)
+![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=eeehaw:)
 
 
 
