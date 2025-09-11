@@ -35,7 +35,7 @@
 <a>goodbye</a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=eeehaw:)
+![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=eeehaw:) <--- half of them is my page resfresh
 
 
 
