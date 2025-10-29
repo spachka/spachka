@@ -1,5 +1,5 @@
 <div align = "center">
-  <p>i love cheese... so i guess im a rat >:-o</p>
+  <p>i love cheese... so i guess im a rat</p>
 <img src="binding-of (1).gif" width="350px">
 </div>
 
