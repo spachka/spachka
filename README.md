@@ -1,28 +1,32 @@
-<div align="center">
-<a>hhhi idk what can i say about myself cuz im not rlly interesting person, but at least you can explore my interests <a href="https://github.com/spachka/more-info">here</a></a>
+<img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left">
+
+<div align="left" height="150px" width="20px">
+<a>hi im spachka<br>
+<a>im not rlly looking for friends rn, so please don't try</a><br>
+<a href="https://github.com/spachka/more-info">here</a> you can explore my interests. maybe your matches here!!! ;-3</a>
 <br><a>have a great day!! or night!!! or evening!!!!!! or morning!!!!!!!!!!!!</a>
 </div>
 <br>
 
-<div align="center" padding="30px">
+
+
+<div align="center">
 <table>
   <tr>
-    <th>
-      
+<p><img src="https://blob.gifcities.org/gifcities/4OKREYBSACDGXFI6O3BYR4FULHQLYLRT.gif" width="20px">now its time for <b>DANCE PARTY</b><img src="https://blob.gifcities.org/gifcities/4OKREYBSACDGXFI6O3BYR4FULHQLYLRT.gif" width="20px"></p>
+    </tr> 
 
-<div align = "center">
-<img src="pony-town-@sapach_nik (150+)-trot-blinking-padded-4x.gif" width="188px"> <img src="binding-of (1).gif" width="300px">  <img src="pony-town-j-trot-blinking-padded-4x.gif" width="200px">
+  <th>
+<img src="pony-town-@sapach_nik (150+)-trot-blinking-padded-4x.gif" width="188px"> <img src="binding-of (1).gif" width="300px">  <img src="pony-town-j-trot-blinking-padded-4x.gif" width="210px">
 </div>
-
 
 </th>
-<tr>
+</tr>
+
 </table>
 
-
-
-what the hell is THIS
 </div>
+
 
 
 
