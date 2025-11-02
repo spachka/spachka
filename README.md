@@ -6,13 +6,13 @@
 <a href="https://github.com/spachka/more-info">here</a> you can explore my interests. maybe your matches here!!!</a>
 <br><a>have a great day!! or night!!! or evening!!!!!! or morning!!!!!!!!!!!!</a>
 </div>
-<br>
+
 
 
 <div align="center">
 <table>
   <tr>
-<p><img src="https://blob.gifcities.org/gifcities/4OKREYBSACDGXFI6O3BYR4FULHQLYLRT.gif" width="20px">now its time for <b>DANCE PARTY</b><img src="https://blob.gifcities.org/gifcities/4OKREYBSACDGXFI6O3BYR4FULHQLYLRT.gif" width="20px"></p>
+<h3><img src="https://blob.gifcities.org/gifcities/4OKREYBSACDGXFI6O3BYR4FULHQLYLRT.gif" width="20px">now its time for <b>DANCE PARTY</b><img src="https://blob.gifcities.org/gifcities/4OKREYBSACDGXFI6O3BYR4FULHQLYLRT.gif" width="20px"></h3>
     </tr> 
 
   <th>
