@@ -1,13 +1,12 @@
-<img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left">
+<img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="180px">
 
 <div align="left" height="150px" width="20px">
 <a>hi im spachka<br>
-<a>im not rlly looking for friends rn, so please don't try</a><br>
+<a>im not rlly looking for friends rn, so please don't even try</a><br>
 <a href="https://github.com/spachka/more-info">here</a> you can explore my interests. maybe your matches here!!! ;-3</a>
 <br><a>have a great day!! or night!!! or evening!!!!!! or morning!!!!!!!!!!!!</a>
 </div>
 <br>
-
 
 
 <div align="center">
