@@ -16,7 +16,7 @@
     </tr> 
 
   <th>
-<img src="pony-town-@sapach_nik (150+)-trot-blinking-padded-4x.gif" width="188px"> <img src="binding-of (1).gif" width="300px">  <img src="pony-town-j-trot-blinking-padded-4x.gif" width="210px">
+<img src="pony-town-@sapach_nik (150+)-trot-blinking-padded-4x.gif" width="188px"> <img src="binding-of (1).gif" width="300px">  <img src="pony-town-j-boop-sit-blinking-padded-4x.gif" width="210px">
 </div>
 
 </th>
@@ -25,7 +25,9 @@
 </table>
 
 </div>
-
+<div align="right">
+<h6>p.s.: ik theres not a lot info 'bout me(im so shy to say smth more) <img src="video5343789698273800913.gif" align="center" width="60px"></h6>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=eeehaw:) 
 
