@@ -29,7 +29,7 @@
 <h6>p.s.: ik theres not a lot info 'bout me(im so shy to say smth more) <img src="video5343789698273800913.gif" align="center" width="60px"></h6>
 </div>
 
-![](https://komarev.com/ghpvc/?username=spachka&color=blueviolet&style=plastic&label=eeehaw:) 
+![](https://komarev.com/ghpvc/?username=spachka&color=brightgreen&style=plastic&label=eeehaw:) 
 
 
 
