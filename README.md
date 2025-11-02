@@ -1,4 +1,4 @@
-<img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="180px">
+<img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="170px">
 
 <div align="left" height="150px" width="20px">
 <a>hi im spachka<br>
