@@ -1,9 +1,11 @@
-
-
+<div align="center">
+<a>hhhi idk what can i say about myself cuz im not rlly interesting person, but at least you can explore my interests <a href="https://github.com/spachka/more-info">here</a></a>
+<br><a>have a great day!! or night!!! or evening!!!!!! or morning!!!!!!!!!!!!</a>
+</div>
+<br>
 
 <div align="center" padding="30px">
 <table>
-  
   <tr>
     <th>
       
@@ -15,9 +17,11 @@
 
 </th>
 <tr>
-  
 </table>
-what the hell is this
+
+
+
+what the hell is THIS
 </div>
 
 
