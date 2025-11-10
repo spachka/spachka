@@ -1,9 +1,10 @@
-<img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="200px">
+<img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="230px">
 
-<div align="left" height="150px" width="20px">
-<a>hi im spachka<br>
-<a>im not rlly looking for friends rn, so please don't even try<br>i love cheese, dogs and color green</a><br>
-<a href="https://github.com/spachka/more-info">here</a> you can explore my interests. maybe yours matches here!!!</a>
+<div align="left" height="170px" width="20px">
+<h3>hi im spachka!</h3>
+<a>im not rlly looking for friends rn, so please don't even try<br>
+i love cheese, dogs and color green</a><br>
+<a href="https://github.com/spachka/more-info">here</a><a> you can explore my interests. maybe yours matches here!!!</a>
 <br><a>have a great day!! or night!!! or evening!!!!!! or morning!!!!!!!!!!!!</a>
 </div>
 
