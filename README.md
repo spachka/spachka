@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif"> <a><b> WIP </b></a><img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif">
+</div>
+
 <img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="230px">
 
 <div align="left" height="170px" width="20px">
@@ -13,7 +18,7 @@ i love cheese, dogs and color green</a><br>
 <div align="center">
 <table>
   <tr>
-<h3><img src="https://blob.gifcities.org/gifcities/4OKREYBSACDGXFI6O3BYR4FULHQLYLRT.gif" width="20px">now its time for <b>DANCE PARTY</b><img src="https://blob.gifcities.org/gifcities/4OKREYBSACDGXFI6O3BYR4FULHQLYLRT.gif" width="20px"></h3>
+<h3>now its time for <b>DANCE PARTY</b></h3>
     </tr> 
 
   <th>
