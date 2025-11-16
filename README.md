@@ -4,7 +4,7 @@
 
 <img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="230px">
 
-<div align="left" height="170px" width="20px">
+<div align="left" height="150px" width="20px">
 <h3>hi im spachka!</h3>
 <a>im not rlly looking for friends rn, so please don't even try<br>
 i love cheese, dogs and color green</a><br>
