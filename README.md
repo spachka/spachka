@@ -9,7 +9,7 @@
 <a>im not rlly looking for friends rn, so please don't even try<br></a>
 <a href="https://github.com/spachka/more-info">here</a><a> you can explore my interests. maybe yours matches here!!!</a>
 <br><a>have a great day!! or night!!! or evening!!!!!! or morning!!!!!!!!!!!!</a>
-</div><br>
+</div>
 
 
 
