@@ -1,10 +1,10 @@
 
-<div align="center">
+<div align="right">
  <h6><img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif"> WIP <img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif"></h6>
 
 <img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="230px">
 
-<div align="left" height="150px" width="20px">
+<div align="left" height="140px" width="20px">
 <h3>hi im spachka!</h3>
 <a>im not rlly looking for friends rn, so please don't even try<br>
 i love cheese, dogs and color green</a><br>
