@@ -6,11 +6,10 @@
 
 <div align="left" height="140px" width="20px">
 <h3>hi im spachka!</h3>
-<a>im not rlly looking for friends rn, so please don't even try<br>
-i love cheese, dogs and color green</a><br>
+<a>im not rlly looking for friends rn, so please don't even try<br></a>
 <a href="https://github.com/spachka/more-info">here</a><a> you can explore my interests. maybe yours matches here!!!</a>
 <br><a>have a great day!! or night!!! or evening!!!!!! or morning!!!!!!!!!!!!</a>
-</div>
+</div><br>
 
 
 
