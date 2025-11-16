@@ -1,7 +1,6 @@
 
 <div align="center">
-<img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif"> <a><b> WIP </b></a><img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif">
-</div>
+ <h6><img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif"> WIP <img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif"></h6>
 
 <img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="230px">
 
