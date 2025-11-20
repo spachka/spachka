@@ -30,7 +30,7 @@
 
 </div>
 <div align="right">
-<h6>p.s.: ik theres not a lot info 'bout me(im so shy to say smth more)</h6>
+<h6>p.s.: my keyboard is a bit broken so i'll update here everything when it'll be repaired</h6>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=spachka&color=brightgreen&style=plastic&label=eeehaw:) 
