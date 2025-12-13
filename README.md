@@ -1,39 +1,9 @@
-
-<div align="right">
- <h6><img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif"> WIP <img src="https://blob.gifcities.org/gifcities/4AWBYVAE26NUCAK3MQ54ZQUPNSIWSY4Y.gif"></h6>
-
-<img src="https://blob.gifcities.org/gifcities/5UYUIOTCOKEDSIURDIYPK2UFQWNTPFYE.gif" align="left" width="185px">
-
-<div align="left" height="100px" width="20px">
-<h3>hi im spachka!</h3>
-<a>im not rlly looking for friends rn, so please don't even try<br></a>
-<a href="https://github.com/spachka/more-info">here</a><a> you can explore my interests. maybe yours matches here!!!</a>
-<br><a>have a great day!! or night!!! or evening!!!!!! or morning!!!!!!!!!!!!</a>
-</div>
-
-
-
 <div align="center">
-<table>
-  <tr>
-<h3>now its time for <b>DANCE PARTY</b></h3>
-    </tr> 
+ <a href="whatisthatthingis.straw.page">strawpage</a> 🌚<br><br>
+<img src="https://github.com/spachka/spachka/blob/3b1e1e2e48a7e7a97241a25125ff6eea694cc9ca/video5343789698273800913.gif" width="200px">
 
-  <th>
-<img src="pony-town-@sapach_nik (150+)-trot-blinking-padded-4x.gif" width="188px"> <img src="binding-of (1).gif" width="300px">  <img src="pony-town-j-boop-sit-blinking-padded-4x.gif" width="210px">
-</div>
-
-</th>
-</tr>
-
-</table>
-
-</div>
-<div align="right">
-<h6>p.s.: my keyboard is a bit broken so i'll update here everything when it'll be repaired</h6>
-</div>
 
 ![](https://komarev.com/ghpvc/?username=spachka&color=brightgreen&style=plastic&label=eeehaw:) 
-
+</div>
 
 
