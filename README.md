@@ -1,7 +1,7 @@
 
 <div align="center">
- <img src="https://blob.gifcities.org/gifcities/H5XSQRSKHPMXPFLVIU4IQSYRJX7ZJOLW.gif" width="15px" align="center"><p>I can be shy n untalkative. im sorry!</p>
- 
+ <img src="https://blob.gifcities.org/gifcities/H5XSQRSKHPMXPFLVIU4IQSYRJX7ZJOLW.gif" width="15px" align="center"><p><i>I can be shy n untalkative. im sorry!</i></p>
+
   <details>
 <summary><b>who am I?</b></summary>
 my pseudo is spachka (old: sapaka). <br>I love drawing, exploring old strange websites and programming <i>(but i'm still a beginner at this saddly).</i> <br>i'm <b>NOT</b> neurodivergent person!! i just have strange interests as a girl
