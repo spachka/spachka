@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://blob.gifcities.org/gifcities/H5XSQRSKHPMXPFLVIU4IQSYRJX7ZJOLW.gif" width="15px" align="center"><p><i>I can be shy n untalkative. im sorry!</i></p>
+ <img src="https://blob.gifcities.org/gifcities/35YJHTJMEAGTCQIECF4PGKPYOSHGJNNN.gif" width="90px" align="center">
 
   <details>
 <summary><b>who am I?</b></summary>
