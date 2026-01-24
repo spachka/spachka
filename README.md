@@ -8,7 +8,7 @@
   <details>
 <summary><b>who am I?</b></summary>
 my pseudo is spachka (old: sapaka). <br>I love drawing, exploring old strange websites and programming <i>(but i'm still a beginner at this saddly).</i> <br>i'm <b>NOT</b> neurodivergent person!! i just have strange interests as a girl
-   <img src="https://blob.gifcities.org/gifcities/ZQWYI2DEQ4F2YNOLUNDYDBVATSFM3PV3.gif" align="center">
+   <img src="https://blob.gifcities.org/gifcities/ZQWYI2DEQ4F2YNOLUNDYDBVATSFM3PV3.gif" align="center" width="20px">
   </details>
   
   <details>
