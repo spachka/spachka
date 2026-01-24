@@ -1,6 +1,9 @@
-
 <div align="center">
- <img src="https://blob.gifcities.org/gifcities/35YJHTJMEAGTCQIECF4PGKPYOSHGJNNN.gif" width="90px" align="center">
+
+ <img src="https://blob.gifcities.org/gifcities/35YJHTJMEAGTCQIECF4PGKPYOSHGJNNN.gif" width="70px" align="center"> <a> <---<i> it's me running from a real ppl</i></a>
+
+ <br>
+
 
   <details>
 <summary><b>who am I?</b></summary>
@@ -13,7 +16,7 @@ my pseudo is spachka (old: sapaka). <br>I love drawing, exploring old strange we
 proshippers, ppl with horrible fetishes, ppl under 16. 
   </details>
 
- <h6>and hey! i would be glad if u sign my ata or strawpage</h6>
+
  
  <img src="https://github.com/spachka/spachka/blob/3b1e1e2e48a7e7a97241a25125ff6eea694cc9ca/video5343789698273800913.gif" width="200px" height="200px"> <img src="9aee8c96-29bf-4586-918b-cc05f9bc9233.gif" width="220px" height="350px"> <img src="https://i.ibb.co/HTSBKGmT/nospray.gif" width="200px"> <br> 
 
