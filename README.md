@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://blob.gifcities.org/gifcities/35YJHTJMEAGTCQIECF4PGKPYOSHGJNNN.gif" width="70px" align="center"> $\color{#e52b50}{\textsf{<--- it's me running from a real ppl}}$
+ <img src="https://blob.gifcities.org/gifcities/35YJHTJMEAGTCQIECF4PGKPYOSHGJNNN.gif" width="50px" align="center"> <i> $\color{#3d906e}{\textsf{<--- it's me running from a real ppl}}$ </i>
 
  <br>
 
