@@ -1,10 +1,5 @@
 <div align="center">
 
- <img src="https://blob.gifcities.org/gifcities/35YJHTJMEAGTCQIECF4PGKPYOSHGJNNN.gif" width="50px" align="center"> <i> $\color{#3d906e}{\textsf{"Thanks Ricki, thank you Jenny}}$ </i>  <img src="https://blob.gifcities.org/gifcities/35YJHTJMEAGTCQIECF4PGKPYOSHGJNNN.gif" width="50px" align="center"> <br>
- <i> $\color{#3d906e}{\textsf{you made normal today!!!"}}$ </i>
-
- <br>
-
 
   <details>
 <summary><b>who am I?</b></summary>
