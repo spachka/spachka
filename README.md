@@ -1,6 +1,8 @@
 <div align="center">
 
 
+<a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i2/30296" alt="It's tamaNOTchi! Click to feed!"></a>
+
   <details>
 <summary><b>who am I?</b></summary>
 my pseudo is spachka (old: sapaka). <br>I love drawing, exploring old strange websites and programming <i>(but i'm still a beginner at this saddly).</i>
