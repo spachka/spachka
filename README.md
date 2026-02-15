@@ -1,7 +1,8 @@
+<div align="left">
+<a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i2/30296" alt="It's tamaNOTchi! Click to feed!" align="center"></a> <a>⠀⠀⠀← click to feed it.... okay...???</a>
+</div>
+
 <div align="center">
-
-
-<a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i2/30296" alt="It's tamaNOTchi! Click to feed!"></a>
 
   <details>
 <summary><b>who am I?</b></summary>
@@ -18,8 +19,7 @@ proshippers, ppl with horrible fetishes, ppl under 16.
  
  <img src="https://github.com/spachka/spachka/blob/3b1e1e2e48a7e7a97241a25125ff6eea694cc9ca/video5343789698273800913.gif" width="200px" height="200px">  <img src="https://i.ibb.co/HTSBKGmT/nospray.gif" width="200px"> <img src="9aee8c96-29bf-4586-918b-cc05f9bc9233.gif" width="220px" height="350px">
 
-<a>I would be so happy if u sign my ata or strawpage!!!</a>
-<h6>('cuz they all lie in dust for a long time saddly :-P)</h6>
+<h6>have a nice day/evening</h6>
 
 <a href="https://github.com/spachka/more-info">my interests</a><a>⠀⠀⠀⠀</a><a href="https://www.roblox.com/users/3054370121/profile">me on roblox</a><a>⠀⠀⠀⠀</a><a href="https://t.me/microwave_puknula">me on telegram</a><a>⠀⠀⠀⠀</a><a href="https://whatisthatthingis.straw.page">strawpage</a><a>⠀⠀⠀⠀</a><a href="https://spachka.atabook.org">ata</a>
 </div>
