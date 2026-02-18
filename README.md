@@ -12,7 +12,7 @@ my pseudo is spachka (old: sapaka). <br>I love drawing, exploring old strange we
   
   <details>
 <summary><b>DNI</b></summary>
-proshippers, ppl with horrible fetishes, ppl under 16. 
+proshippers, ppl with horrible fetishes, ppl under 17. 
   </details>
 
 
