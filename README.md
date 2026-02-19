@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sans+MS&duration=2000&pause=100&color=3AD172&center=true&vCenter=true&width=435&lines=Dance%2C+dance%2C+dance;like+you're+having+a+seizure;Epileptic+Techno!;Epileptic+Techno;Oh%2C+no;not+having+a+seizure;Epileptic+Techno!;Epileptic+Techno" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sans+MS&duration=2000&pause=100&color=C2619E&center=true&vCenter=true&width=435&lines=Dance%2C+dance%2C+dance;like+you're+having+a+seizure;Epileptic+Techno!;Epileptic+Techno;Oh%2C+no;not+having+a+seizure;Epileptic+Techno!;Epileptic+Techno" alt="Typing SVG" /></a>
 
   <details>
 <summary><b>who am I?</b></summary>
