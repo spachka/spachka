@@ -1,8 +1,10 @@
-<div align="left">
-<a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i2/30296" alt="It's tamaNOTchi! Click to feed!" align="center"></a> <a>⠀⠀⠀← click to feed it.... okay...???</a>
+<div align="center">
+<a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i2/30296" alt="It's tamaNOTchi! Click to feed!" align="center"></a>
 </div>
 
 <div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sans+MS&duration=2000&pause=100&color=3AD172&center=true&vCenter=true&width=435&lines=Dance%2C+dance%2C+dance;like+you're+having+a+seizure;Epileptic+Techno!;Epileptic+Techno;Oh%2C+no;not+having+a+seizure;Epileptic+Techno!;Epileptic+Techno" alt="Typing SVG" /></a>
 
   <details>
 <summary><b>who am I?</b></summary>
@@ -15,13 +17,12 @@ my pseudo is spachka (old: sapaka). <br>I love drawing, exploring old strange we
 proshippers, ppl with horrible fetishes, ppl under 17. 
   </details>
 
-
- 
  <img src="https://github.com/spachka/spachka/blob/3b1e1e2e48a7e7a97241a25125ff6eea694cc9ca/video5343789698273800913.gif" width="200px" height="200px">   <img src="9aee8c96-29bf-4586-918b-cc05f9bc9233.gif" width="220px" height="350px"> <img src="doc_2026-02-18_20-54-06 (1).gif" width="270px" height="400px">
 
-<h6>have a nice day/evening</h6>
+<h6>would be glad if you sign my ata or strawpage <br> have a nice day/evening/night... whatever twin</h6>
 
 <a href="https://github.com/spachka/more-info">my interests</a><a>⠀⠀⠀⠀</a><a href="https://www.roblox.com/users/3054370121/profile">me on roblox</a><a>⠀⠀⠀⠀</a><a href="https://t.me/microwave_puknula">me on telegram</a><a>⠀⠀⠀⠀</a><a href="https://whatisthatthingis.straw.page">strawpage</a><a>⠀⠀⠀⠀</a><a href="https://spachka.atabook.org">ata</a>
+
 </div>
 
 
