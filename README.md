@@ -1,6 +1,8 @@
-<div align="center">
-<a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i2/30296" alt="It's tamaNOTchi! Click to feed!" align="left"></a>
-</div>
+
+
+  
+  <div align="left">
+  <a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i/30296" alt="It's tamaNOTchi! Click to feed!"></a><a href="https://tamanotchi.world/30296c">
 
 <div align="center">
 
