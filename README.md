@@ -11,7 +11,12 @@
 <br>
 
 <div align="center">
-  <a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i/30296" alt="It's tamaNOTchi! Click to feed!"></a><a href="https://tamanotchi.world/30296c"></a><a href="https://tamanotchi.world/30426c"><img src="https://tamanotchi.world/i/30426" alt="It's tamaNOTchi! Click to feed!"></a>
+  <a>we are tamanotchilings! please feed us!!!</a>
+</div>
+
+<div align="center">
+
+  <a href="https://tamanotchi.world/30296c"><img src="https://tamanotchi.world/i/30296" alt="It's tamaNOTchi! Click to feed!"></a><a href="https://tamanotchi.world/30296c"></a><a href="https://tamanotchi.world/30426c"><img src="https://tamanotchi.world/i/30426" alt="It's tamaNOTchi! Click to feed!"></a><a href="https://tamanotchi.world/30427c"><img src="https://tamanotchi.world/i/30427" alt="It's tamaNOTchi! Click to feed!"></a>
 </div>
 
 <div align="center">
