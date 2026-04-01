@@ -1,6 +1,8 @@
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=spachka&color=gray&style=plastic&label=eeehaw:) 
 
-
-
+</div>
 <div align="center">
 
 
@@ -17,11 +19,7 @@
 <br>
 
 
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=spachka&color=gray&style=plastic&label=eeehaw:) 
 
-</div>
 
 <div align="right">
 <h6>all drawings here made by me! :-3</h6>
