@@ -25,5 +25,5 @@
 
 
 <div align="right">
-<h6>all drawings here made by me! :-3</h6>
+<h6>all drawings here made by me!</h6>
 </div>
