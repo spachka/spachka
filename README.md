@@ -1,10 +1,14 @@
-<div align="center"><p>�ண�ᯮ�� �ண �ᯮ</p></div>
-
-<div align="center">
+<div align="left">
   
 ![](https://komarev.com/ghpvc/?username=spachka&color=gray&style=plastic&label=eeehaw:) 
 
 </div>
+
+<div align="center">
+  
+  <img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
+  <a>⠀⠀⠀�⠀⠀ᯮ⠀ண�ᯮ⠀��⠀�ண�ᯮ⠀⠀⠀</a><img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
+  </div>
 
 <div align="center">
 
