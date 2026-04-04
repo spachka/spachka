@@ -11,7 +11,7 @@
   </div>
 
 <div align = "center">
-<details>
+<i><details>
 <summary>smth about me</summary>
 
 <div align = "left">
@@ -26,6 +26,7 @@ hope that was reeeeaaaallllllllyyyyyy helpful (it's not)
 <div align="left"> <img src = "images (1).png" width="200px" height="100px"> </div>
 </div>
 </details>
+</i>
 </div>
 
 <div align="center">
