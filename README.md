@@ -10,6 +10,24 @@
   <a>⠀⠀⠀�⠀⠀ᯮ⠀ண�ᯮ⠀��⠀�ண�ᯮ⠀⠀⠀</a><img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
   </div>
 
+<div align = "center">
+<details>
+<summary>smth about me</summary>
+
+<div align = "left">
+•⠀⠀⠀an artist<br>
+•⠀⠀⠀not looking for a friends rn<br>
+•⠀⠀⠀russian is my native language, so I may do some incorrects when I'm talking to you on english<br>
+•⠀⠀⠀not really like talking about my real life<br>
+•⠀⠀⠀often afk<br>
+•⠀⠀⠀I'm not a mean person, but if i behave like this - it's all just a joke and I'm so sorry about that<br><br>
+
+hope that was reeeeaaaallllllllyyyyyy helpful (it's not)
+<div align="left"> <img src = "images (1).png" width="200px" height="100px"> </div>
+</div>
+</details>
+</div>
+
 <div align="center">
 <img src="Untiswnws7sksksks.png" width="700px">
 
