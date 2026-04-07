@@ -17,7 +17,7 @@
 <div align = "left">
 •⠀⠀⠀an artist<br>
 •⠀⠀⠀not looking for a friends rn<br>
-•⠀⠀⠀russian is my native language, so I may do some incorrects when I'm talking to you on english<br>
+•⠀⠀⠀russian is my native language, so I may do some incorrects while I'm talking to you on english<br>
 •⠀⠀⠀not really like talking about my real life<br>
 •⠀⠀⠀often afk<br>
 •⠀⠀⠀I'm not a mean person, but if i behave like this - it's all just a joke and I'm so sorry about that<br><br>
