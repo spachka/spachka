@@ -23,8 +23,6 @@
 •⠀⠀⠀I'm not a mean person, but if i behave like this - it's all just a joke and I'm so sorry about that<br><br>
 
 hope that was reeeeaaaallllllllyyyyyy helpful (it's not)
-<div align="left"> <img src = "picmix.com_13643209.gif" width="400px" height="275px"> </div>
-</div>
 </details>
 </i>
 </div>
