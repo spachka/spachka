@@ -22,7 +22,7 @@
 •⠀⠀⠀often afk<br>
 •⠀⠀⠀I'm not a mean person, but if i behave like this - it's all just a joke and I'm so sorry about that<br><br>
 
-hope that was reeeeaaaallllllllyyyyyy helpful (it's not)
+hope that was really helpful cuz idk what else can I say about myself
 
 <img src="https://media.tenor.com/tZHtbdM_c4MAAAAM/glados-stare.gif" width="400px">
 
