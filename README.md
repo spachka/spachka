@@ -1,8 +1,12 @@
+<div align="right"><h6>cr of pfp and drawing here - me!!</h6></div>
+
 <div align="left">
   
 ![](https://komarev.com/ghpvc/?username=spachka&color=gray&style=plastic&label=eeehaw:) 
 
 </div>
+
+
 
 <div align="center">
   
