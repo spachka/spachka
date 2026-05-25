@@ -43,6 +43,6 @@ hope that was really helpful cuz idk what else can I say about myself
 
 </div>
 
-<div align="right"><h6>cr of pfp and drawing here - me!!</h6></div>
+<div align="right"><h6>btw, an OC that you probably see here everywhere is NOT my sona</h6></div>
 
 
