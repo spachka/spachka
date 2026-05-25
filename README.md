@@ -28,7 +28,7 @@
 
 hope that was really helpful cuz idk what else can I say about myself
 
-<img src="https://media.tenor.com/tZHtbdM_c4MAAAAM/glados-stare.gif" width="400px">
+<img src="0001-0091.gif" width="400px">
 
 </details>
 </i>
