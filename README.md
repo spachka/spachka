@@ -11,12 +11,6 @@
   
   <img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
   <a>⠀⠀⠀�⠀⠀ᯮ⠀ண�ᯮ⠀��⠀�ண�ᯮ⠀⠀⠀</a><img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
-
-<details>
-<summary><img src="https://blob.gifcities.org/gifcities/2J2WGUPURGOVD2GIBFCFOT3DXSAB65Q4.gif"><img src="https://blob.gifcities.org/gifcities/2J2WGUPURGOVD2GIBFCFOT3DXSAB65Q4.gif"><img src="https://blob.gifcities.org/gifcities/2J2WGUPURGOVD2GIBFCFOT3DXSAB65Q4.gif">   ⠀ "I can't whisper you. why???"</summary>
-  <p>because I have bad english and I'm afraid of my misunderstanding and also of any incorrections I may say to you. I don't wanna make you sad or make you feel ashamed by my ignore (what always happen to me btw). that's why am I turned it off!<br>
-<br>instead you can sign my atabook if you wanna tell me something  ⠀  ⠀ ─‿─</p>
-</details>
   
   </div>
 
