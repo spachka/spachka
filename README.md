@@ -30,6 +30,6 @@
 </div>
 
 <div align="right">
-<h6>pfp made <a href="https://artfight.net/attack/17118557.woof">by my friend</a> :-))))</h6>
+<h6>  </h6>
 </div>
 
