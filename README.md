@@ -10,7 +10,7 @@
 <div align="center">
   
   <img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
-  <a>⠀⠀⠀�⠀⠀ᯮ⠀ண�ᯮ⠀��⠀�ண�ᯮ⠀⠀⠀</a><img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
+  <a>⠀⠀⠀†Ԉࠠᐠ∠倠⁁䈂⨗††礠‪⹺砥†慹††⭡⁸〠奛礠欠࡭†⠀⠀⠀</a><img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
   
   </div>
 
