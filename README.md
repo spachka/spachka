@@ -9,8 +9,8 @@
 
 <div align="center">
   
-  <img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
-  <a>⠀⠀⠀†Ԉࠠᐠ∠倠⁁䈂⨗††礠‪⹺砥†慹††⭡⁸〠奛礠欠࡭†⠀⠀⠀</a><img src="https://blob.gifcities.org/gifcities/3WHLUJU22BHME5CNUN2T4U7XONBLCCED.gif" align="center" width="30px">
+  <img src="https://i.ibb.co/jktb1WZH/U-itle.png" align="center" width="px">
+  <a>⠀⠀⠀†Ԉࠠᐠ∠倠⁁䈂⨗††礠‪⹺砥†慹††⭡⁸〠奛礠欠࡭†⠀⠀⠀</a><img src="https://i.ibb.co/p67p734D/U-itled-dithered-1.png" align="center" width="px">
   
   </div>
 
