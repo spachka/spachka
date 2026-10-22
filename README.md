@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=spachka&color=purple&style=plastic&label=eeehaw:) 
+![](https://komarev.com/ghpvc/?username=spachka&color=gray&style=plastic&label=eeehaw:) 
 
 </div>
 
