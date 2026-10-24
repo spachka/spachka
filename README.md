@@ -26,9 +26,4 @@
 
 
 </div>
-<a> ⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀^^^^^</a><br>
-<a>kinda ugly now. 'll remake it.</a>
-<div align="right">
-<h6>  </h6>
-</div>
 
