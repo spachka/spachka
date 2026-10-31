@@ -27,6 +27,6 @@
 
 </div>
 
-<div align="left">
+<div align="right">
 <h6>pfp and all gifs here made by me</h6>
 </div>
