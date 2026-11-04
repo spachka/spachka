@@ -10,7 +10,10 @@
 <div align="center">
   
   <img src="https://i.ibb.co/9H8Pgcg1/2.gif" align = "center" width="250px">
-  <a>⠀⠀⠀†Ԉࠠᐠ∠倠⁁䈂⨗††礠‪⹺砥†慹††⭡⁸〠礠欠† ???⠀⠀</a><img src="https://i.ibb.co/0j7DW15V/2.gif" align="center" width="250px">
+  <details>
+  <summary>\)'7%e7%ￆﾭ\ ???</summary>
+    most of the time I'm afk, so may not reply you quickly or not reply at all.
+</details>⠀⠀</a><img src="https://i.ibb.co/0j7DW15V/2.gif" align="center" width="250px">
   
   </div>
 
