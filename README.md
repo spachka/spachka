@@ -11,7 +11,7 @@
   
 
   <details>
-  <summary>   <img src="https://i.ibb.co/9H8Pgcg1/2.gif" align = "right" width="250px"> \)'7%e7%ￆﾭ\ ??? <img src="https://i.ibb.co/0j7DW15V/2.gif" align="left" width="250px"> </summary>
+  <summary>   <img src="https://i.ibb.co/9H8Pgcg1/2.gif" align = "center" width="250px"> \)'7%e7%ￆﾭ\ ??? <img src="https://i.ibb.co/0j7DW15V/2.gif" align="center" width="250px"> </summary>
     most of the time I'm afk, so may not reply you quickly or not reply at all. I'm sorry!
 </details>⠀
   
