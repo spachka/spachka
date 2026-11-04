@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-<img src="https://cdn.phototourl.com/free/2026-06-14-53c545f2-2e8e-49eb-90a5-32e1735b4a14.gif" width="700px">
+<img src="https://cdn.phototourl.com/free/2026-06-14-53c545f2-2e8e-49eb-90a5-32e1735b4a14.gif" width="500px">
 
 
 
