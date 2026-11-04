@@ -30,6 +30,18 @@
     <details>
   <summary></summary>
   hello again
+      <details>
+  <summary></summary>
+  heya
+  <details>
+  <summary></summary>
+  hey
+  <details>
+  <summary></summary>
+  hi
+</details>⠀
+</details>⠀
+</details>⠀
 </details>⠀
 </details>⠀
 </details>⠀
