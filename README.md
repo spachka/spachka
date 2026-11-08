@@ -1,12 +1,5 @@
 
 <div align="center">
-
-<img src="https://blob.gifcities.org/gifcities/GZ4BMXORSNN55RB32L7F7HW7EE4QPH4F.gif">
-
-</div>
-
-
-<div align="center">
   
 ![](https://komarev.com/ghpvc/?username=spachka&color=gray&style=plastic&label=eeehaw:) 
 
