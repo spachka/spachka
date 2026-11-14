@@ -14,7 +14,7 @@
       <br>hello<br>
   I'm mostly offtab
   <br>may not answer you if I find you annoying or I don't know how to answer you
-  <br>dni if you're a yumeshipper, russiaphobic, homophobic, racist or just want to be a friend with me
+  <br>dni if you're a yumeshipper, xenophobic, homophobic, racist or just want to be a friend with me
   <br><br>ty for attention!!!!!<br>
   <img src="https://media.tenor.com/woq3J_ft2PYAAAAm/isaac-the-binding-of-isaac.webp">
   
