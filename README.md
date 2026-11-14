@@ -11,11 +11,11 @@
 
   <details>
   <summary>   <img src="https://i.ibb.co/9H8Pgcg1/2.gif" align = "center" width="250px"> \)'7%e7%ￆﾭ\ ??? <img src="d9ade2030f7e4aea8cf2f1407f473ced.gif" align="center" width="250px"> </summary>
-      <br>hello.<br>
+      <br>hello<br>
 <br>
-  I'm offtab most of my time in pt.
-  <br>may not answer you if I find you annoying or I don't know how to answer you.
-  <br>dni if you're a yumeshipper, russiaphobic, homophobic or racist etc.
+  I'm mostly offtab
+  <br>may not answer you if I find you annoying or I don't know how to answer you
+  <br>dni if you're a yumeshipper, russiaphobic, homophobic, racist or just want to be a friend with me
   <br><br>ty for attention!!!!!
   
 
