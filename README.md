@@ -13,7 +13,7 @@
   <summary>   <img src="https://i.ibb.co/9H8Pgcg1/2.gif" align = "center" width="250px"> <h2><i>\)_'7%_7%ￆﾭ\ ???</i></h2> <img src="d9ade2030f7e4aea8cf2f1407f473ced.gif" align="center" width="250px"> </summary>
       <br>hello<br>
   I'm mostly offtab
-  <br>may not answer you if I find you annoying or I don't know how to answer you
+  <br>may not answer you if I find you annoying or I don't know how to answer you (I'm so sorry)
   <br>dni if you're a yumeshipper, xenophobic, homophobic, racist or just want to be a friend with me
   <br><br>ty for attention!!!!! and for gaf, too<br>
   <img src="https://media.tenor.com/woq3J_ft2PYAAAAm/isaac-the-binding-of-isaac.webp">
